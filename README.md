@@ -6,8 +6,11 @@
 
 https://neoyipeng2018.github.io/turbo-potato/
 
-# My Blog
+# Turbo Potato's scattered thoughts
 
+This is where I write about stuff I don't feel like sharing anywhere else -- mostly personal thoughts about careers/books/films.
+
+For ML stuff, check out my linkedin or medium articles.
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
