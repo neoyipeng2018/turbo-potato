@@ -8,7 +8,7 @@ https://neoyipeng2018.github.io/turbo-potato/
 
 # Turbo Potato's scattered thoughts
 
-This is where I write about stuff I don't feel like sharing anywhere else -- mostly personal thoughts about careers/books/films.
+Experiment to learn and practise some git/nbdev, and also just to spill some words to make some memories on paper. Probably will write about books, films, careers, philosophy, ideas. 
 
 For ML stuff, check out my linkedin or medium articles.
 
