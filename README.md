@@ -8,9 +8,9 @@ https://neoyipeng2018.github.io/turbo-potato/
 
 # Turbo Potato's scattered thoughts
 
-Experiment to learn and practise some git/nbdev, and also just to spill some words to make some memories on paper. Probably will write about books, films, careers, philosophy, ideas. 
+Experiment to learn and practise some git/nbdev, and also just to spill some words to make some memories on paper. Unpolished posts about my career, books, films, philosophy, ideas. 
 
-For ML stuff, check out my linkedin or medium articles.
+For better written stuff about ML, check out my linkedin posts or medium articles - I put a lot of effort in those. Here, I'm just turbo potato rambling along :)
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
