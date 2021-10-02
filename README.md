@@ -8,7 +8,7 @@ https://neoyipeng2018.github.io/turbo-potato/
 
 # Turbo Potato's scattered thoughts
 
-Experiment to learn and practise some git/nbdev, and also just to spill some words to make some memories on paper. Probably will write about books, films, careers, philosophy, ideas. 
+Experiment to learn about git/nbdev and spill some words to make memories - probably will write about books, films, careers, philosophy, ideas. 
 
 For ML stuff, check out my linkedin or medium articles.
 
